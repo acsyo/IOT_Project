@@ -1,4 +1,4 @@
-# My IoT Aquarium Project
+# IoT Aquarium Project
 
 This is a smart aquarium that monitors and controls temperature and water level, and does automatic feeding using Python and MQTT.
 
